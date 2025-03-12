@@ -6,7 +6,7 @@ This project analyzes patterns in word usage and topic differences between AI-ge
 
 key components of the analysis include:
 - Text Preprocessing: Using spaCy and NLTK for tokenization, lemmatization, and dependency parsing.
-- Lexical Analysis: Extracting frequent words and multi-word expressions using n-grams.
+- Lexical Analysis: Extracting frequent words and topics.
 - Topic Modeling: Implementing LDA (Latent Dirichlet Allocation) and enhancing it with keyword-based topic mapping to ensure meaningful categorization.
 - Visualization: Creating bar graphs, word clouds, treemaps, and other visual aids to illustrate differences between AI and human writing.
 
